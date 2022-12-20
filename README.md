@@ -5,7 +5,7 @@ This is a project for my data science blog [Quasi Qualified](https://quasiqualif
 
 Read my post [here](https://www.quasiqualified.com/posts/austin-police-killings/).
 
-Very grateful to the data team at the Washington Post for their [Fatal Force Database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/). It's a lot of (thankless) work compiling and cleaning nationwide statistics about police killings. Their contribution helps further research and conversation about an alarming topic. As I mention at the end of my post, police violence, even when justified, should be avoided at all costs. The effort of the WaPo data team furthers that goal.
+I'm very grateful to the data team at the Washington Post for their [Fatal Force Database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/). It's a lot of (thankless) work compiling and cleaning nationwide statistics about police killings. Their contribution helps further research and conversation about an alarming topic. As I mention at the end of my post, police violence, even when justified, should be avoided at all costs. The effort of the WaPo data team furthers that goal.
 
 The following is from the Washington Post.
 
