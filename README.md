@@ -1,7 +1,7 @@
 
 # Police Killings in Austin
 
-This is a project for my data science blog [Quasi Qualified](https://quasiqualified.com/). The purpose of this project is to assess the statistics cited by the Wall Street Journal in a November 19, 2022, article about the killing of Rajan Moonesinghe in Austin, Texas. See that article [here](https://https://www.wsj.com/articles/entrepreneurs-death-at-hands-of-austin-police-prompts-calls-for-change-11671458081). Specifically, the hightlights what appears to be Austin's unique struggle with police killings. I assess three statistical claims.
+This is a project for my data science blog [Quasi Qualified](https://quasiqualified.com/). The purpose of this project is to assess the statistics cited by the Wall Street Journal in a November 19, 2022, [article about the killing of Rajan Moonesinghe](https://www.wsj.com/articles/entrepreneurs-death-at-hands-of-austin-police-prompts-calls-for-change-11671458081) in Austin, Texas. S. Specifically, the hightlights what appears to be Austin's unique struggle with police killings. I assess three statistical claims.
 
 Read my post [here](https://www.quasiqualified.com/posts/austin-police-killings/).
 
