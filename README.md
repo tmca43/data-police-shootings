@@ -1,9 +1,9 @@
 
 # Police Killings in Austin
 
-This is a project for my data science blog [Quasi Qualified](https://quasiqualified.com/). The purpose of this project is to assess the statistics cited by the Wall Street Journal in a November 19, 2022, [article about the killing of Rajan Moonesinghe](https://www.wsj.com/articles/entrepreneurs-death-at-hands-of-austin-police-prompts-calls-for-change-11671458081) in Austin, Texas. Specifically, the hightlights what appears to be Austin's unique struggle with police killings. I assess three statistical claims.
+This is a project for my data science blog [TPM Data](https://www.tpmdata.com/). The purpose of this project is to assess the statistics cited by the Wall Street Journal in a November 19, 2022, [article about the killing of Rajan Moonesinghe](https://www.wsj.com/articles/entrepreneurs-death-at-hands-of-austin-police-prompts-calls-for-change-11671458081) in Austin, Texas. Specifically, the hightlights what appears to be Austin's unique struggle with police killings. I assess three statistical claims.
 
-Read my post [here](https://www.quasiqualified.com/posts/austin-police-killings/).
+Read my post [here](https://www.tpmdata.com/posts/austin-police-killings/).
 
 I'm very grateful to the data team at the Washington Post for their [Fatal Force Database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/). It's a lot of (thankless) work compiling and cleaning nationwide statistics about police killings. Their contribution helps further research and conversation about an alarming topic. As I mention at the end of my post, police violence, even when justified, should be avoided at all costs. The effort of the WaPo data team furthers that goal.
 
